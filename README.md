@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis/Data science
 - 🌱 I’m currently learning Data analysis , machine learning , ai engeenring
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me Sa.gamal@nu.edu.eg
+- 📫 How to reach me saif.gamall@outlook.com
 
 
 <!---
